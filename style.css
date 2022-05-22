@@ -1,0 +1,24 @@
+.parentDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left {
+    background-color: #EBE1D8;
+}
+.right {
+    background-color: #A58351;
+}
+
+.formstyle {
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #CCDCED;
+    border: 2px solid black;
+    border-radius: 4px;
+            }
+
+.red {
+  color: red;
+}
